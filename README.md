@@ -18,12 +18,7 @@ I'm **Donte Abney**, an undergraduate Physics / Robotics Engineering student bas
 
 ---
 
-### Tech Stack 📀
-<!--
-<img src="assets/python.png" width="40" height="40" alt="Python" /> <img src="assets/java.png" width="40" height="40" alt="Java" /> <img src="assets/js.png" width="40" height="40" alt="JavaScript" /> <img src="assets/html.png" width="40" height="40" alt="HTML" /> <img src="assets/css.png" width="40" height="40" alt="CSS" /> <img src="assets/vscode.png" width="40" height="40" alt="VS Code" /> <img src="assets/autocad.png" width="40" height="40" alt="AutoCAD" /> <img src="assets/fusion360.png" width="40" height="40" alt="Fusion 360" /> <img src="assets/onshape.png" width="40" height="40" alt="Onshape" />
--->
+## Tech Stack 📀
 
----
+<img src="assets/logos/python-logo.webp" width="40" height="40" alt="Python" /> <img src="assets/logos/Java_Logo.png" width="40" height="40" alt="Java" /> <img src="assets/logos/cpp_logo.webp" width="40" height="40" alt="CPP" /> <img src="assets/logos/js-logo.webp" width="40" height="40" alt="JavaScript" /> <img src="assets/logos/HTML5_logo.png" width="40" height="40" alt="HTML" /> <img src="assets/logos/css_logo.png" width="40" height="40" alt="CSS" /> <img src="assets/logos/Visual_Studio_Code_icon.png" width="40" height="40" alt="VS Code" /> <img src="assets/logos/autocad_logo.webp" width="40" height="40" alt="AutoCAD" /> <img src="assets/logos/fusion360_logo.webp" width="40" height="40" alt="Fusion 360" /> <img src="assets/logos/Onshape_logo.png" width="40" height="40" alt="Onshape" />
 
-###  Connect with me 🔗
-[LinkedIn](INSERT_LINK_HERE) | [Resume](assets/YOUR_RESUME_FILE.pdf)
